@@ -59,6 +59,6 @@ for (let val of iterableLarry) {
 // UNLV
 // {"team":"Charlotte Hornets","year":1991,"pick":1}
 
-console.log(larry == iterableLarry);
+console.log(larry === iterableLarry);
 // false
 ```
