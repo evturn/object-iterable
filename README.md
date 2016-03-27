@@ -1,6 +1,9 @@
+[![npm version](https://badge.fury.io/js/object-iterable.svg)](https://www.npmjs.com/package/object-iterable)
+[![Dependency Status](https://david-dm.org/evturn/object-iterable.svg)](https://www.npmjs.com/package/object-iterable)
+
 ## Object Iterable
 
-object-iterable returns new objects with the ability to make use of the default iteration behavior (such as for-of) that built-in iterables like Array or Map have.
+Create a new object containing the same properties (through assignment) of another object along with an @@iterator method can make use of the default iteration behavior (such as for-of) that built-in iterables like Array or Map have.
 
 ```bash
 npm install --save object-iterable
