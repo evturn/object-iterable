@@ -1,6 +1,6 @@
 {
   "name": "object-iterable",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "description": "Create a new object containing the same properties (through assignment) of another object along with an @@iterator method can make use of the default iteration behavior (such as for-of) that built-in iterables like Array or Map have.",
   "main": "index.js",
   "scripts": {
