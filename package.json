@@ -7,6 +7,10 @@
     "build": "babel src --out-file lib/index.js",
     "watch": "babel src --watch --out-file lib/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evturn/object-iterable.git"
+  },
   "keywords": [
     "@@iterator",
     "enumerable",
@@ -19,6 +23,10 @@
   ],
   "author": "Evan Turner <ev@evturn.com>",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evturn/object-iterable/issues"
+  },
+  "homepage": "https://github.com/evturn/object-iterable#readme",
   "devDependencies": {
     "babel-cli": "^6.6.5",
     "babel-core": "^6.7.4",
