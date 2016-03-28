@@ -3,7 +3,7 @@
 
 ## Object Iterable
 
-Create a new object containing the same properties (through assignment) of another object along with an @@iterator method can make use of the default iteration behavior (such as for-of) that built-in iterables like Array or Map have.
+Create a new object containing the same properties of any given source object along with an @@iterator method to make use of the default iteration behavior (such as for-of) that built-in iterables like Array or Map have.
 
 ```bash
 npm install --save object-iterable
